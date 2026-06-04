@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.py
+*.sh
+*.js
+drafts/
+prompts/
+article-plan.md
+*-preview.png
+make-image-1x.js
+shot.js
+gen-article.sh
+build.py
+template.py
