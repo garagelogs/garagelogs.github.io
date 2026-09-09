@@ -59,6 +59,9 @@ ARTICLES = [
  ("used-car-brake-inspection","Used Car Brake Inspection: What to Listen For, Look For, and Feel Before You Buy",
   "A practical guide to checking used car brakes — pad thickness, rotor condition, pedal feel, brake fluid, and the warning signs most buyers miss.",
   "Inspection","Brakes are the most important safety system in any car. Here's how to check them before you hand over cash."),
+ ("nissan-skyline-r34","The Nissan Skyline GT-R R34: Why Godzilla Became a Legend",
+  "The history, engineering, and cultural impact of the R34 Skyline GT-R — from its racing dominance to its Fast & Furious fame. What it costs today and what to look for.",
+  "Story","A six-cylinder AWD car that became one of the most iconic performance machines ever made."),
 ]
 
 DRAFT_MAP = {
@@ -77,6 +80,7 @@ DRAFT_MAP = {
  "used-car-vin-check":"13-used-car-vin-check.html",
  "toyota-supra-mk4-legend":"14-toyota-supra-mk4.html",
  "used-car-brake-inspection":"15-used-car-brake-inspection.html",
+ "nissan-skyline-r34":"16-nissan-skyline-r34.html",
 }
 
 def clean_body(raw):

@@ -33,6 +33,9 @@ Match on TOPIC/ANGLE, not just title. If the same buyer question is already answ
 
 ---
 
+### Batch 5
+16. `nissan-skyline-r34` — passion: history of the R34 Skyline GT-R, Godzilla lineage, RB26 legend, pop culture impact, what to look for and current pricing
+
 ## Article Types & Ratios (working guidelines, not fixed Robert percentages)
 - **How-to / SEO** (~60% working mix): rank for search terms; teach WHAT/WHY, never give away the full kit
 - **Story / gearhead narrative** (~25% working mix): immersive, emotional, seamless late product hook — NOT a sales pitch

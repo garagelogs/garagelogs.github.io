@@ -1,3 +1,3 @@
-User-agent:
+User-agent: *
 Allow: /
 Sitemap: https://garagelogs.github.io/sitemap.xml
