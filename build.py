@@ -62,6 +62,10 @@ ARTICLES = [
  ("nissan-skyline-r34","The Nissan Skyline GT-R R34: Why Godzilla Became a Legend",
   "The history, engineering, and cultural impact of the R34 Skyline GT-R — from its racing dominance to its Fast & Furious fame. What it costs today and what to look for.",
   "Story","A six-cylinder AWD car that became one of the most iconic performance machines ever made."),
+
+ ("used-car-suspension-inspection","Used Car Suspension Inspection: What to Check Before You Buy",
+  "How to inspect a used car's suspension — struts, shocks, bushings, and tire wear patterns that reveal hidden problems most buyers miss.",
+  "Inspection","The system you never notice until it fails. Here's how to check suspension before you hand over cash."),
 ]
 
 DRAFT_MAP = {
@@ -81,6 +85,7 @@ DRAFT_MAP = {
  "toyota-supra-mk4-legend":"14-toyota-supra-mk4.html",
  "used-car-brake-inspection":"15-used-car-brake-inspection.html",
  "nissan-skyline-r34":"16-nissan-skyline-r34.html",
+ "used-car-suspension-inspection":"17-used-car-suspension-inspection.html",
 }
 
 def clean_body(raw):
