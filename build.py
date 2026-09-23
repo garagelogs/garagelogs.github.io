@@ -66,6 +66,9 @@ ARTICLES = [
  ("used-car-suspension-inspection","Used Car Suspension Inspection: What to Check Before You Buy",
   "How to inspect a used car's suspension — struts, shocks, bushings, and tire wear patterns that reveal hidden problems most buyers miss.",
   "Inspection","The system you never notice until it fails. Here's how to check suspension before you hand over cash."),
+ ("used-car-rust-inspection","How to Inspect a Used Car for Rust: Surface vs. Structural Corrosion",
+  "A buyer's guide to used car rust inspection — the seven spots that tell you everything about corrosion, and when rust means walk away.",
+  "Inspection","Rust can destroy a used car's value overnight. Here's how to spot the difference between cosmetic blemish and structural failure."),
 ]
 
 DRAFT_MAP = {
@@ -86,6 +89,7 @@ DRAFT_MAP = {
  "used-car-brake-inspection":"15-used-car-brake-inspection.html",
  "nissan-skyline-r34":"16-nissan-skyline-r34.html",
  "used-car-suspension-inspection":"17-used-car-suspension-inspection.html",
+ "used-car-rust-inspection":"18-used-car-rust-inspection.html",
 }
 
 def clean_body(raw):
